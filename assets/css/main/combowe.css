@@ -1,0 +1,25 @@
+/* ---------模板覆蓋--------- */
+.cke_chrome {
+	box-shadow: none;
+}
+.cke_top {
+	background-image: none;
+	background: #eee;
+	box-shadow: none;
+}
+
+/* ---------主內容--------- */
+
+#sortable li {
+	margin-bottom: 2rem;
+	padding: 1rem;
+}
+
+#sortable .items .items_title{
+	background-color: #999999;
+    color: #ffffff;
+    padding: 0.3rem 1rem;
+}
+#sortable .items .items_content {
+	padding-bottom: 1rem;
+}

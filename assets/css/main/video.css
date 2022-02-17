@@ -1,0 +1,19 @@
+#video ul li a {
+	display: block;
+}
+#video ul li a:hover img {
+	opacity: 0.7;
+}
+#video ul li h3 {
+	color: #333333;
+	margin: 0.4rem 0 0.8rem;
+}
+
+#video .items .checkbox {
+	text-align: left;
+}
+#video .items .embed-responsive-16by9 img {
+	position: absolute;
+	top: -14%;
+	left: 0;
+}

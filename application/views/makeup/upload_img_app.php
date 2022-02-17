@@ -1,0 +1,1 @@
+<script src="assets/js/common/upload_img.js"></script>

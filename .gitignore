@@ -1,0 +1,13 @@
+# 忽略 文件
+assets/**/*.png
+assets/**/*.jpg
+assets/**/*.pdf
+assets/**/*.gif
+assets/**/*.svg
+.vscode
+.editorconfig
+.DS_Store
+
+# 忽略 資料夾
+phpadmin/
+.vscode/

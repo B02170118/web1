@@ -1,0 +1,9 @@
+/* ---------模板覆蓋--------- */
+.cke_chrome{
+	box-shadow: none;
+}
+.cke_top {
+	background-image: none;
+	background: #eee;
+	box-shadow: none;
+}

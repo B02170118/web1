@@ -1,0 +1,1 @@
+<script src="assets/js/main/qa.js"></script>
